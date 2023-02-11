@@ -3,7 +3,7 @@ Hi, I'm Bjarke. This is my github page which I don't use too often. I enjoy codi
 PS: I define a programming language to be a turing complete language :sunglasses:
 <table>
 <th align="center" valign="top">
-<img width="380" height="1">
+<img width="250" height="1">
   <h3>2007</h3>
   <img src="icons/Bash.png" title="Bash"/>
   <h3>2013</h3>
@@ -14,7 +14,7 @@ PS: I define a programming language to be a turing complete language :sunglasses
   <img src="icons/Scala.png" title="Scala"/>
 </th>
 <th align="center" valign="top">
-<img width="380" height="1">
+<img width="250" height="1">
   <h3>2009</h3>
   <img src="icons/C++.png" title="C++"/>
   <h3>2014</h3>
@@ -25,7 +25,7 @@ PS: I define a programming language to be a turing complete language :sunglasses
   <img src="icons/JavaScript.png" title="JavaScript"/>
 </th>
 <th align="center" valign="top">
-<img width="294" height="1">
+<img width="250" height="1">
   <h3>2012</h3>
   <img src="icons/GML.png" title="GML"/><img src="icons/Python.png" title="Python"/>
   <h3>2015</h3>
