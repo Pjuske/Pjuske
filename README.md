@@ -1,4 +1,4 @@
-Hi, I'm Bjarke. This is my github page which I don't use too often. I enjoy coding in my professional life, and have throughout my career and studies played with many programming languages. Here's a cool timeline of when I wrote my first program in the following languages.
+Hi, I'm Bjarke. This is my github page which I don't use too often. I enjoy coding in my professional life, and have throughout my career and studies played with many programming languages. Below you can see a timeline for when I wrote my first program in the following languages.
 
 PS: I define a programming language to be a turing complete language :sunglasses:
 <table>
