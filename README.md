@@ -11,7 +11,7 @@ PS: I define a programming language to be a turing complete language :sunglasses
   <h3>2012</h3>
   <img src="icons/GML.png" title="GML"/><img src="icons/Python.png" title="Python"/>
   <h3>2013</h3>
-  <img src="icons/SML.png" title="SML"/><img src="icons/Java.png" title="Java"/>
+  <img src="icons/SML.png" title="SML"/><img src="icons/Java.png" title="Java"/><img src="icons/LaTeX.png" title="LaTeX"/>
 </th>
 <th align="center" valign="top">
 <img width="250" height="1">
