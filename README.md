@@ -11,10 +11,11 @@ PS: I define a programming language to be a turing complete language :sunglasses
   
   **2014:** <img src="icons/SQL.png" title="SQL"/><img src="icons/PHP.png" title="PHP"/><img src="icons/C.png" title="C"/><img src="icons/MIPS Assembly.png" title="MIPS Assembly"/><img src="icons/FASTO.png" title="FASTO"/>&emsp;
   **2015:** <img src="icons/YAML.png" title="YAML"/><img src="icons/NuSMV.gif" title="NuSMV"/><img src="icons/R.png" title="R"/>&emsp;
-  **2016:** <img src="icons/Haskell.png" title="Haskell"/><img src="icons/Prolog.png" title="Prolog"/><img src="icons/Erlang.png" title="Erlang"/>&emsp;
   
+  **2016:** <img src="icons/Haskell.png" title="Haskell"/><img src="icons/Prolog.png" title="Prolog"/><img src="icons/Erlang.png" title="Erlang"/>&emsp;
   **2017:** <img src="icons/MATLAB.png" title="MATLAB"/><img src="icons/Fsharp.png" title="F#"/>&emsp;
   **2018:** <img src="icons/Csharp.png" title="C#"/>&emsp;
   **2019:** <img src="icons/Scala.png" title="Scala"/>&emsp;
+  
   **2020:** <img src="icons/JavaScript.png" title="JavaScript"/>&emsp;
   **2024:** <img src="icons/TypeScript.png" title="TypeScript"/>
