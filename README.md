@@ -16,5 +16,5 @@ PS: I define a programming language to be a turing complete language :sunglasses
   **2017:** <img src="icons/MATLAB.png" title="MATLAB"/><img src="icons/Fsharp.png" title="F#"/>&emsp;
   **2018:** <img src="icons/Csharp.png" title="C#"/>&emsp;
   **2019:** <img src="icons/Scala.png" title="Scala"/>&emsp;
-  **2020:** <img src="icons/JavaScript.png" title="JavaScript"/>
+  **2020:** <img src="icons/JavaScript.png" title="JavaScript"/>&emsp;
   **2024:** <img src="icons/TypeScript.png" title="TypeScript"/>
