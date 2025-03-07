@@ -4,7 +4,7 @@ Hi, I'm Bjarke. This is my github page which I don't use too often. I enjoy codi
 
 PS: I define a programming language to be a turing complete language :sunglasses:
 
-  **2007:** <img src="icons/Batch.png" title="Bash"/>&emsp;
+  **2007:** <img src="icons/Batch.png" title="Batch"/>&emsp;
   **2009:** <img src="icons/C++.png" title="C++"/>&emsp;
   **2012:** <img src="icons/GML.png" title="GML"/><img src="icons/Python.png" title="Python"/>&emsp;
   **2013:** <img src="icons/SML.png" title="SML"/><img src="icons/Java.png" title="Java"/><img src="icons/LaTeX.png" title="LaTeX"/>&emsp;
