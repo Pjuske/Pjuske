@@ -21,7 +21,10 @@ PS: I define a programming language to be a turing complete language :sunglasses
   **2024:** <img src="icons/TypeScript.png" title="TypeScript"/>
 
 My dad bought me a Windows 95 when i was just 3 years old, I have been told that I loved playing DOOM, and that my weapon of choice was the chainsaw :grin:
+
 Around 6th grade i had my first encounter with the Windows Command Prompt and was fascinated how it was possible to make the machine do stuff, by simply typing various commands.
+
 My joy for computers and math eventually pushed me to pursue my masters degree in Computer Science, and since then I've always found it fun to work with different aspects of the programming world.
+
 
 Currently i like to play around a tech stack of Python/C#, SQL/NoSQL, Docker, and AWS/Azure.
