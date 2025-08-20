@@ -28,4 +28,4 @@ My joy for computers and math eventually pushed me to pursue my masters degree i
 
 
 
-Currently i like to play around a tech stack of Python/C#, SQL/NoSQL, Docker, and AWS/Azure.
+Currently i like to play around a tech stack of Python, Snowflake SQL, and containerized infrastructure on AWS.
