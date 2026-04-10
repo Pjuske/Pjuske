@@ -18,7 +18,8 @@ PS: I define a programming language to be a turing complete language :sunglasses
   **2019:** <img src="icons/Scala.png" title="Scala"/>&emsp;
   
   **2020:** <img src="icons/JavaScript.png" title="JavaScript"/>&emsp;
-  **2024:** <img src="icons/TypeScript.png" title="TypeScript"/>
+  **2024:** <img src="icons/TypeScript.png" title="TypeScript"/>&emsp;
+  **2025:** <img src="icons/Go.png" title="Go"/>
 
 My dad bought me a Windows 95 when i was just 3 years old. I have been told that I loved playing DOOM, and that my weapon of choice was the chainsaw :grin:
 
